@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_pressure">Pressure</string>
+    <string name="label_visibility">Visibility</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="description_weather_condition_icon">weather condition icon</string>
+    <string name="dialogTitle">Need Permission</string>
+    <string name="dialogMessage">The App is fetching your location, it requires your approval.</string>
+</resources>
